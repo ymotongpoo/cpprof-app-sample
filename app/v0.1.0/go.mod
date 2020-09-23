@@ -1,4 +1,4 @@
-module github.com/ymotongpoo/cpporf-app-sample
+module github.com/ymotongpoo/cpporf-app-sample/app/v0.1.0
 
 go 1.14
 
